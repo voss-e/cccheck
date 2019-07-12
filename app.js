@@ -1,6 +1,5 @@
 const inputs = document.querySelectorAll('input')
 
-const visaCard = document.querySelector('')
 const patterns = {
   visa: /^(?:4[0-9]{12}(?:[0-9]{3})?)$/,
   mastercard: /^5[1-5]\d{14}$/,
